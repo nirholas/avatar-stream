@@ -1,0 +1,19 @@
+# @three-ws/avatar-stream
+
+> Progressive 3D over plain HTTP. Pack a GLB into a layered A3S stream whose first 50 KB is already a complete, skinned, spec-valid avatar, then refine it in place with byte-range requests. No custom server, no WebSocket, no new codec.
+
+@three-ws/avatar-stream is a JavaScript library from three.ws. Install: `npx -y @three-ws/avatar-stream`.
+
+## Docs
+
+- [README](https://github.com/nirholas/avatar-stream/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/avatar-stream/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/avatar-stream/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/avatar-stream/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/avatar-stream)
+- [npm](https://www.npmjs.com/package/@three-ws/avatar-stream)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/avatar-stream/issues)

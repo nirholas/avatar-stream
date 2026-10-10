@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "@three-ws/avatar-stream"
+abstract: "Progressive 3D over plain HTTP. Pack a GLB into a layered A3S stream whose first 50 KB is already a complete, skinned, spec-valid avatar, then refine it in place with byte-range requests. No custom server, no WebSocket, no new codec."
+version: 0.1.0
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/avatar-stream"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

@@ -1,0 +1,4 @@
+Contact: mailto:support@three.ws
+Preferred-Languages: en
+Canonical: https://nirholas.github.io/avatar-stream/.well-known/security.txt
+Expires: 2027-10-10T22:00:43.528Z
