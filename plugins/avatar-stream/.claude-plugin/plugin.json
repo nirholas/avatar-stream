@@ -6,8 +6,8 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/avatar-stream",
-  "license": "Apache-2.0",
   "homepage": "https://nirholas.github.io/avatar-stream/",
+  "license": "Apache-2.0",
   "keywords": [
     "glb",
     "gltf",
